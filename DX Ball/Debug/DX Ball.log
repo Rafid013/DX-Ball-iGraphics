@@ -1,0 +1,19 @@
+﻿Build started 17/10/2017 2:04:16 PM.
+     1>Project "F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\DX Ball.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DX Ball.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         f:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\Debug\DX Ball.exe" /NOLOGO /LIBPATH:"F:\BUET\CSE\CSE 105 + 106\Project Games\DX Ball\DX Ball\OpenGL\lib" /LIBPATH:"F:\BUET\CSE\CSE 105+106\Project Games\DX Ball\DX Ball\OpenGL\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DX Ball.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\Debug\DX Ball.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\Debug\DX Ball.lib" /MACHINE:X86 Debug\Blocks.obj
+         DX Ball.vcxproj -> F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\Debug\DX Ball.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\Debug\DX Ball.exe;#1" /manifest "Debug\DX Ball.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\DX Ball.unsuccessfulbuild".
+         Touching "Debug\DX Ball.lastbuildstate".
+     1>Done Building Project "F:\BUET\CSE\L1T2\CSE 105 + 106\Project Games\DX Ball\DX Ball\DX Ball.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
